@@ -1,2 +1,2 @@
-# 2_05_html_css_exercises
+# #5 Html & Css exercises
 Exercises for Basic HTML and CSS understanding
